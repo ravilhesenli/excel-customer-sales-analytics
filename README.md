@@ -53,11 +53,4 @@ Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes n�
 * 📁 `excel-customer-sales-analytics.xlsx` -> Layihənin əsas işçi Excel faylı
 * 🖼️ `*.png` -> Hesabatların və data modelin skrinşotları
 
----
-
-## 📈 CV üçün Bu Layihəni Necə Təqdim Etməli? (Tövsiyə)
-CV-nizin "Layihələr" bölməsinə bu bəndi əlavə edə bilərsiniz:
-> **Müştəri və Satış Analitikası Layihəsi (Excel & Power Pivot)**
-> * Power Query istifadə edərək çirkli müştəri və satış verilənlərini (ETL) təmizləmiş, data relyasiyalarını quraraq ulduz sxemli data modeli yaratmışam.
-> * DAX və Pivot alətləri ilə müştəri seqmentasiyası, Pareto (80/20) analizi və regionların satış stabilliyi hesabatlarını hazırlamışam.
-> * Biznes qərarlarını vizuallaşdırmaq üçün interaktiv Excel Dashboard-u ərsəyə gətirmişəm.
+nı vizuallaşdırmaq üçün interaktiv Excel Dashboard-u ərsəyə gətirmişəm.
