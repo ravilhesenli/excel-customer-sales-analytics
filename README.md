@@ -52,5 +52,3 @@ Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes n�
 ## 📂 Layihə Strukturunun Qovluğu
 * 📁 `excel-customer-sales-analytics.xlsx` -> Layihənin əsas işçi Excel faylı
 * 🖼️ `*.png` -> Hesabatların və data modelin skrinşotları
-
-nı vizuallaşdırmaq üçün interaktiv Excel Dashboard-u ərsəyə gətirmişəm.
