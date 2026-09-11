@@ -1,7 +1,7 @@
 # 📊 Müştəri Davranışları və Satış Analizi Layihəsi (Excel, Power Query & Power Pivot)
 
 ## 📌 Layihə Haqqında Qısa Məlumat
-Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** uçdan-uca (End-to-End) emal edilərək, şirkətin strateji qərarlar almasına kömək edəcək interaktiv vizual analitika panelinə (Dashboard) çevrilmişdir. Layihə çərçivəsində ETL (Extract, Transform, Load) prosesi, data modelləşdirmə (Data Modeling) və müştəri seqmentasiyası analizləri aparılmışdır.
+Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** ucdan-uca (End-to-End) emal edilərək, şirkətin strateji qərarlar almasına kömək edəcək interaktiv vizual analitika panelinə (Dashboard) çevrilmişdir. Layihə çərçivəsində ETL (Extract, Transform, Load) prosesi, data modelləşdirmə (Data Modeling) və müştəri seqmentasiyası analizləri aparılmışdır.
 
 ---
 
