@@ -32,17 +32,20 @@ Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes n�
 ### 📊 Müştəri Seqmentasiyası və Davranışları
 * **Müştəri və Məhsul Trendləri:** Elektronika kateqoriyasında (xüsusilə Noutbuk) gənc müştərilərin (18-27 yaş) üstünlük təşkil etdiyi, yaş artdıqca isə gündəlik tələbat və qida məhsullarına (Diş macunu, Qəhvə) meylin artdığı müəyyən edilmişdir.
 
-![Müştəri Davranışı](musteri_davranisi_1.png)
+![Müştəri Davranışı](müştəri_davranışı.1.png)
+![Müştəri Davranışı 1](müştəri_davranışı.2.png)
+![Müştəri Davranışı 2](müştəri_davranışı.3.png)
+
 
 ### 🗺️ Regionlar Üzrə Satışın Stabillik Faizləri
 * **Satışın Stabillik Faizləri:** Şəhərlər üzrə satış analizində **Bakı və Gəncə** regionları ən yüksək dayanıqlılıq (stabil aylıq satış) göstərən zonalar, **Lənkəran və Mingəçevir** isə ən qeyri-stabil zonalar olaraq qruplaşdırılmışdır.
 
-![Satış Diaqramı](diagram_vizu.png)
+![satış_imkanları](satış_imkanları.png)
 
 ### 📈 Pareto Analizi (80/20 Qaydası)
 * Gəlirlərin böyük hissəsinin **28-47 yaş** aralığındakı müştərilərdən və **C kateqoriyalı** məhsul qruplarından formalaşdığı Pareto diaqramı ilə sübut edilmişdir.
 
-![Pareto Analizi](pareto_analizi.png)
+![Pareto Analizi](satış_imkanları.png)
 
 ---
 
