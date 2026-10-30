@@ -1,6 +1,6 @@
 # 📊 Müştəri Davranışları və Satış Analizi Layihəsi (Excel, Power Query & Power Pivot)
 
-## 📌 Layihə Haqqında Qısa Məlumat
+# Layihə Haqqında Qısa Məlumat
 Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** ucdan-uca (End-to-End) emal edilərək, şirkətin strateji qərarlar almasına kömək edəcək interaktiv vizual analitika panelinə (Dashboard) çevrilmişdir. Layihə çərçivəsində ETL (Extract, Transform, Load) prosesi, data modelləşdirmə (Data Modeling) və müştəri seqmentasiyası analizləri aparılmışdır.
 
 ---
@@ -13,7 +13,7 @@ Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** ucd
 
 ---
 
-## 🚀 Data Transformasiyası (Əvvəl / Sonra)
+# Data Transformasiyası (Əvvəl / Sonra)
 
 ### 1. Data Təmizləmə (Power Query ETL)
 * **Xam Müştəri Datası (`Customer Data`):** Cinsiyyət sütununda qeyri-müəyyən kodlar təmizləndi və "Kişi/Qadın" formatına gətirildi. Yaş qrupları sütunu yaradıldı. Tarix formatları standartlaşdırıldı. `Müştəri Data` adında təmiz cədvəl əldə olundu.
@@ -37,7 +37,7 @@ Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes n�
 ![Müştəri Davranışı 2](müştəri_davranışı.3.png)
 
 
-### 🗺️ Regionlar Üzrə Satışın Stabillik Faizləri
+# Regionlar Üzrə Satışın Stabillik Faizləri
 * **Satışın Stabillik Faizləri:** Şəhərlər üzrə satış analizində **Bakı və Gəncə** regionları ən yüksək dayanıqlılıq (stabil aylıq satış) göstərən zonalar, **Lənkəran və Mingəçevir** isə ən qeyri-stabil zonalar olaraq qruplaşdırılmışdır.
 
 ![satış_imkanları](satış_imkanları.png)
