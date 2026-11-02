@@ -1,11 +1,11 @@
-# 📊 Müştəri Davranışları və Satış Analizi Layihəsi (Excel, Power Query & Power Pivot)
+#  Müştəri Davranışları və Satış Analizi Layihəsi (Excel, Power Query & Power Pivot)
 
 # Layihə Haqqında Qısa Məlumat
-Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** ucdan-uca (End-to-End) emal edilərək, şirkətin strateji qərarlar almasına kömək edəcək interaktiv vizual analitika panelinə (Dashboard) çevrilmişdir. Layihə çərçivəsində ETL (Extract, Transform, Load) prosesi, data modelləşdirmə (Data Modeling) və müştəri seqmentasiyası analizləri aparılmışdır.
+Bu layihədə çirkli və struktursuz xam satış və müştəri datası ucdan-uca (End-to-End) emal edilərək, şirkətin strateji qərarlar almasına kömək edəcək interaktiv vizual analitika panelinə (Dashboard) çevrilmişdir. Layihə çərçivəsində ETL (Extract, Transform, Load) prosesi, data modelləşdirmə (Data Modeling) və müştəri seqmentasiyası analizləri aparılmışdır.
 
 ---
 
-## 🛠️ İstifadə Olunan Alətlər və Texnologiyalar
+##  İstifadə Olunan Alətlər və Texnologiyalar
 * **MS Excel** (Qabaqcıl Səviyyə)
 * **Power Query** (Data Təmizləmə və Transformasiya)
 * **Power Pivot & DAX** (Data Modelləşdirmə və Hesablanmış Ölçülər)
@@ -25,11 +25,11 @@ Bu layihədə **çirkli və struktursuz xam satış və müştəri datası** ucd
 
 ---
 
-## 📉 Biznes Analizləri və Dashboard İnsaytları
+##  Biznes Analizləri və Dashboard İnsaytları
 
 Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes nəticələri (Insights):**
 
-### 📊 Müştəri Seqmentasiyası və Davranışları
+###  Müştəri Seqmentasiyası və Davranışları
 * **Müştəri və Məhsul Trendləri:** Elektronika kateqoriyasında (xüsusilə Noutbuk) gənc müştərilərin (18-27 yaş) üstünlük təşkil etdiyi, yaş artdıqca isə gündəlik tələbat və qida məhsullarına (Diş macunu, Qəhvə) meylin artdığı müəyyən edilmişdir.
 
 ![Müştəri Davranışı](müştəri_davranışı.1.png)
@@ -42,13 +42,13 @@ Layihənin sonunda qurulan vizual analizlərdən əldə olunan **əsas biznes n�
 
 ![satış_imkanları](satış_imkanları.png)
 
-### 📈 Pareto Analizi (80/20 Qaydası)
-* Gəlirlərin böyük hissəsinin **28-47 yaş** aralığındakı müştərilərdən və **C kateqoriyalı** məhsul qruplarından formalaşdığı Pareto diaqramı ilə sübut edilmişdir.
+### Pareto Analizi (80/20 Qaydası)
+* Gəlirlərin böyük hissəsinin **28-47 yaş** aralığındakı müştərilərdən formalaşdığı, ən az gəlirin isə **C kateqoriyalı** məhsul qruplarından formalaşdığı Pareto diaqramı ilə sübut edilmişdir.
 
 ![Pareto Analizi](satış_imkanları.png)
 
 ---
 
-## 📂 Layihə Strukturunun Qovluğu
-* 📁 `excel-customer-sales-analytics.xlsx` -> Layihənin əsas işçi Excel faylı
-* 🖼️ `*.png` -> Hesabatların və data modelin skrinşotları
+## Layihə Strukturunun Qovluğu
+* `excel-customer-sales-analytics.xlsx` -> Layihənin əsas işçi Excel faylı
+*  `*.png` -> Hesabatların və data modelin şəkilləri.
